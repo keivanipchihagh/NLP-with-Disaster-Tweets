@@ -1,0 +1,4 @@
+[core]
+    remote = nlp-with-disaster-tweets
+['remote "nlp-with-disaster-tweets"']
+    url = gdrive://1CZcSZ1Il9L0dtaBTYnSTuMhQHv7G0jPj
